@@ -1,6 +1,6 @@
 ## Hyperskill Project
 
-##Simple Banking System
+## Simple Banking System
 This is a Java implementation of a simple banking system that allows customers to create an account, log in, and perform various banking operations such as view balance, deposit funds, and transfer funds to other accounts.
 
 ## Features
